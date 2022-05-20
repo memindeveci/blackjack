@@ -1,14 +1,3 @@
-/**
- * This plays the Blackjack card game that we wrote throughout 
- * the videos in this lesson.
- *
- * Try to play the game and test it out. As you play it, can you think
- * of ways to improve the game? Can you think of ways to improve the code
- * or organize the code?
- *
- * @author jkeesh
- *
- */
 import java.util.Scanner;
 
 
